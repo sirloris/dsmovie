@@ -4,7 +4,7 @@ import "./styles.css";
 export function Navbar() {
 	return (
 		<header>
-			<nav className="container">
+			<nav className="dsmovie-nav-container">
 				<div className="dsmovie-nav-content">
 					<h1>DSMovie</h1>
 					<a href="https://github.com/sirloris">

@@ -2,14 +2,6 @@
 	max-width: 480px;
 	margin: 40px auto;
 	padding: 20px;
-	justify-content: center;
-}
-
-.container {
-	max-width: 480px;
-	margin: 40px auto;
-	padding: 20px;
-	justify-content: center;
 }
 
 .dsmovie-form {
@@ -28,4 +20,7 @@
 .dsmovie-form-btn-container {
 	display: flex;
 	justify-content: center;
+}
+
+.dsmovie-movie-card-image {
 }
